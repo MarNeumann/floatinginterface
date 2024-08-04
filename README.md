@@ -1,6 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-https://cdn.dribbble.com/userupload/14262713/file/original-da905d53d4faedb6ca280c5e7b310ab5.mp4
+[https://cdn.dribbble.com/userupload/14262713/file/original-da905d53d4faedb6ca280c5e7b310ab5.mp4
+](https://dribbble.com/shots/24063109-macOS-Dock-Apple-Music-Micro-Interaction)
+
+https://tomayac.github.io/joy-con-webhid/demo/
+
+https://blog.olivierlarose.com/tutorials/magnetic-button
+
+https://buildui.com/recipes/elastic-slider
+
 
 ## Getting Started
 
